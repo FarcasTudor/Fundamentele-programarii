@@ -1,0 +1,11 @@
+sex_ed,drama,5,crime
+spring,romantic,4,adulti
+casadepapel,actiune,1,bani
+mamooth,thriller,2,dinozauri copii
+jumanji,actiune,5,reptile
+himym,drama,3,adolescenti
+GoT,actiune,6,dragoni
+90_show,actiune,3,gingasi
+friends,sitcom,2,prieteni
+anaconda,horror,3,snakes
+90_show,comedie,5,ceva
